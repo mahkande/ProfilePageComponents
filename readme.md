@@ -1,0 +1,1 @@
+![capture](https://github.com/mahkande/ProfilePageComponents/blob/master/img/Capture.PNG)
